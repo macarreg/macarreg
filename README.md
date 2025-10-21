@@ -29,7 +29,7 @@ Collaborative **Java** UML editor with GUI, cloud-logging, and **MVC** design.
 ---
 
 ### 🗂 Resume & Links
-📄 [**View My Resume (PDF)**]()
+📄 [**View My Resume (PDF)**](https://github.com/macarreg/macarreg/blob/main/Matt_Acarregui_Resume2025.pdf)
 🔗 [LinkedIn](https://www.linkedin.com/in/matt-acarregui) • [GitHub](https://github.com/macarreg) • [Email](mailto:macarreg@calpoly.edu)
 
 ---
