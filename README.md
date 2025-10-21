@@ -35,6 +35,6 @@ Collaborative **Java** UML editor with GUI, cloud-logging, and **MVC** design.
 ---
 
 ### 🧠 TURF (Totally unnecessary random facts)
-- I love youtube channels like Veritasium and Vsauce which is where most of my ideas stem from.
+- I love youtube channels like Veritasium and Vsauce (where most of my ideas stem from).
 - Wii games are my greatest vice. I am always looking for new ways to spice-up Mario Kart Wii with mods.
 - I followed the classic baseball | golf pipeline (add me on 18-birdies lol)
