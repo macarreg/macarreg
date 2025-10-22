@@ -9,9 +9,9 @@
 
 ### 💡 Projects
 
-#### 🧩 [Knowledge-Based SOMA Solver](https://github.com/macarreg/soma-solver)
-Interactive 3D SOMA Cube built with **JavaScript** and **Python backend**.  
-Implements symmetry-pruned validity checking for efficient puzzle solving.
+#### 🧩 [Knowledge-Based SOMA Solver](https://github.com/macarreg/SomaCube)
+Interactive 3D SOMA Cube built with **JavaScript** and **Python & C++ backend**.  
+Leveraging from a text-based solution in C++, I implemented symmetry-pruned validity checking for efficient puzzle solving.
 Created an inference engine and knowledge rules to tackle large number of possible orientations.
 
 #### 🏠 [Cal Poly Prop Hunt](https://kind-mushroom-09c109a1e.6.azurestaticapps.net/)
@@ -23,7 +23,7 @@ Recreated Robert Axelrod's famous tournament of strategies with 3 (and more) pla
 Used an unsupervised learning agent to attempt to find a pattern / vulnerability in the scores to create a new strategy. 
 Discovered that "nasty" strategies always prevail on average. The more players, the better a nasty strategy will perform.
 
-#### 🧱 [UML Drawing Application](https://github.com/macarreg/uml-drawer)
+#### 🧱 [UML Drawing Application](https://github.com/macarreg/CSC_305)
 Collaborative **Java** UML editor with GUI, cloud-logging, and **MVC** design.
 
 ---
