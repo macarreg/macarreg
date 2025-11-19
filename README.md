@@ -1,7 +1,7 @@
 # Hi! My name is Matt Acarregui
 
 ### 🎓 About Me
-- 22-yearold Senior at Cal Poly, SLO studying computer science with a concentration in AI / ML.
+- 22-year-old Senior at Cal Poly, SLO studying computer science with a concentration in AI / ML.
 - I am passionate about creating visualizations and tools that challenge curiosity.
 - I love to work with and study the foundational problems and projects of Machine Learning
 
