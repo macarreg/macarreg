@@ -31,7 +31,7 @@ I led the form logic and deployment process while assisting with some navigation
 ---
 
 ### 🗂 Resume & Links
-📄 [**View My Resume (PDF)**](https://github.com/macarreg/macarreg/blob/main/MattAcarreguiResume2026.pdf)
+📄 [**View My Resume (PDF)**](https://github.com/macarreg/macarreg/blob/main/MattAcarreguiResume.pdf)
 🔗 [LinkedIn](https://www.linkedin.com/in/matt-acarregui) • [GitHub](https://github.com/macarreg) • [Email](mailto:macarreg@calpoly.edu)
 
 ---
